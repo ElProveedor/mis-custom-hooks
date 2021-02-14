@@ -1,6 +1,6 @@
 # useCounter Hook
 
-Ejemplo de uso
+Ejemplo de uso:
 
 ```
 
@@ -8,4 +8,4 @@ Ejemplo de uso
 
 ```
 
-UseCounter() // recibe un valor por defecto
+UseCounter() // recibe un valor por defecto.
